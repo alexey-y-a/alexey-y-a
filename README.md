@@ -2,9 +2,7 @@
 
 ## 🔥   My Stats :
 
-|                     |
-|---------------------|
-| ![Coding Animation](https://github.com/alexey-y-a/alexey-y-a/blob/main/coding.gif?raw=true)
+ ![Coding Animation](https://github.com/alexey-y-a/alexey-y-a/blob/main/coding.gif?raw=true)
 
 
 

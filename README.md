@@ -2,9 +2,9 @@
 
 ## 🔥   My Stats :
 
-<p style="text-align: center;">
+
   ![Coding Animation](https://github.com/alexey-y-a/alexey-y-a/blob/main/coding.gif?raw=true)
-</p>
+
 
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=alexey-y-a&theme=highcontrast&hide_border=true&locale=en)](https://git.io/streak-stats)

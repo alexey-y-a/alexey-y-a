@@ -6,7 +6,7 @@
 
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=alexey-y-a&theme=highcontrast&hide_border=true&locale=en)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=alexey-y-a&theme=dark&&locale=en)](https://git.io/streak-stats)
 
 
 

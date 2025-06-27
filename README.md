@@ -36,7 +36,9 @@
 
 ##
 
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-y-a&layout=compact&theme=highcontrast=400x)](https://github.com/anuraghazra/github-readme-stats)    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexey-y-a&show_icons=true&theme=highcontrast=400x)](https://github.com/anuraghazra/github-readme-stats) 
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-y-a&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexey-y-a&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) |
+
+<br><br>
 
 
 

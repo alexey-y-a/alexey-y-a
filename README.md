@@ -10,5 +10,6 @@
 
 
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-y-a&layout=compact&theme=highcontrast&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+  ### Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-y-a&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 

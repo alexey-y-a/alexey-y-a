@@ -8,15 +8,15 @@
 ## Languages and Tools 🛠️
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="35" height="35" />
-  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="35" height="35" />
-  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-java-logo.svg" alt="Java" width="35" height="35" />
+  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-java-logo.svg" alt="Java" width="40" height="40" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-spring-boot.svg" alt="Spring" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/gradle" alt="Gradle" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="30" height="30" />
-  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="35" height="35" />
+  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Tomcat" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="30" height="30" />

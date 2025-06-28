@@ -13,15 +13,9 @@
   <img src="https://cdn.simpleicons.org/spring" alt="Spring" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/gradle" alt="Gradle" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/maven" alt="Maven" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/h2" alt="H2" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/liquibase" alt="Liquibase" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/junit5" alt="JUnit" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/mockito" alt="Mockito" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/lombok" alt="Lombok" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/apache" alt="Apache Tomcat" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/json" alt="JSON" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/xml" alt="XML" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="30" height="30" />

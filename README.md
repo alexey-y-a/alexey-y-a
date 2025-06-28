@@ -13,7 +13,7 @@
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-spring-boot.svg" alt="Spring" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/gradle" alt="Gradle" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="30" height="30" />
-  <img src="https://https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="30" height="30" />
+  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Tomcat" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="30" height="30" />

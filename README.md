@@ -7,7 +7,7 @@
 
 ## Languages and Tools 🛠️
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="30" height="30" />
+  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="35" height="35" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="35" height="35" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-java-logo.svg" alt="Java" width="35" height="35" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-spring-boot.svg" alt="Spring" width="30" height="30" />

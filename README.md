@@ -7,10 +7,6 @@
 </div>
 
 
-
-###
-
-
 ## Languages and Tools 🛠️
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="35" height="35" />
@@ -37,7 +33,4 @@
 ##
 
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-y-a&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexey-y-a&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
 

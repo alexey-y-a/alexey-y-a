@@ -2,7 +2,9 @@
 
 ## 🔥   My Stats : I'm studying at the university to become a java/go developer 👨‍💻.
 
- ![Coding Animation](https://github.com/alexey-y-a/alexey-y-a/blob/main/coding.gif?raw=true)
+<div align="center">
+  <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/coding.gif?raw=true" alt="Coding Animation"/>
+</div>
 
 
 ## Languages and Tools 🛠️

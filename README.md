@@ -9,7 +9,7 @@
 ---
 
 ## Languages and Tools 🛠️
-<table align="center">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="60" height="60" /></td>
     <td align="center"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="60" height="60" /></td>
@@ -20,9 +20,9 @@
     <td align="center"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="60" height="60" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Tomcat" width="60" height="60" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="60" height="60" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="60" height="60" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" /></td>
     <td align="center"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-kubernetes.svg" alt="Kubernetes" width="60" height="60" /></td>

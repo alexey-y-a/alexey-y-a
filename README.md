@@ -31,7 +31,9 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"></td>
     <td><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-django.svg" alt="Django" width="40" height="40"></td>
-    <td><img
+    <td
+
+---
 
 ##
 

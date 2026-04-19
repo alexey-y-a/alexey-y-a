@@ -9,7 +9,7 @@
 ---
 
 ## Languages and Tools 🛠️
-<table align="center" border="0" cellpadding="10" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
+<table align="center" border="0" cellpadding="10" cellspacing="0" style="border: 1px solid transparent; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="60" height="60" /></td>
     <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="60" height="60" /></td>

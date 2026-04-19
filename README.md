@@ -9,7 +9,7 @@
 ---
 
 ## Languages and Tools 🛠️
-<table align="center" border="0" cellpadding="0" cellspacing="10" style="min-width: 800px;">
+<p align="center">
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="40" height="40" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="40" height="40" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-java-logo.svg" alt="Java" width="40" height="40" />
@@ -27,8 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" />
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-django.svg" alt="Django" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-</div>
-
+</p>
 ---
 
 ##

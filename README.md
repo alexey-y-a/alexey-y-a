@@ -9,27 +9,27 @@
 ---
 
 ## Languages and Tools 🛠️
-<table align="center" style="border: none; border-collapse: collapse;">
+<table align="center" border="0" cellpadding="10" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
   <tr>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-java-logo.svg" alt="Java" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-spring-boot.svg" alt="Spring" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.simpleicons.org/gradle" alt="Gradle" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Tomcat" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-git.svg" alt="Git" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-github-logo.svg" alt="GitHub" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-java-logo.svg" alt="Java" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-spring-boot.svg" alt="Spring" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.simpleicons.org/gradle" alt="Gradle" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-docker.svg" alt="Docker" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Tomcat" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" width="60" height="60" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-kubernetes.svg" alt="Kubernetes" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-django.svg" alt="Django" width="60" height="60" /></td>
-    <td align="center" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-kubernetes.svg" alt="Kubernetes" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/assets/icons8-django.svg" alt="Django" width="60" height="60" /></td>
+    <td align="center" style="border: none; border-color: transparent; outline: none; box-shadow: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" /></td>
   </tr>
 </table>
 

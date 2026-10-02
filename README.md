@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🔥   My Stats : I'm studying at the university to become a go developer 👨‍💻.
+## 🔥   My Stats: I'm studying at university to become a Go developer 👨‍💻.
 
 <div align="center">
   <img src="https://github.com/alexey-y-a/alexey-y-a/blob/main/coding.gif?raw=true" alt="Coding Animation"/>
